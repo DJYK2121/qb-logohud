@@ -58,3 +58,4 @@ Citizen.CreateThread(
     end
 )
 
+local = qbcore
